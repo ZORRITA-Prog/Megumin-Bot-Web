@@ -43,10 +43,3 @@
 
 ---
 
-## Estructura del Proyecto
-
-```text
-├── index.html       # Estructura principal, formularios de autenticación y contenedor de chat
-├── style.css        # Estilos visuales, diseño responsivo y efectos del sistema
-├── script.js        # Lógica del cliente, animación de partículas, comandos y conexión con APIs
-└── README.md        # Documentación del proyecto

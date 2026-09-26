@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://meguia.wuaze.com"><img src="https://img.shields.io/badge/Sitio_Web-meguia.wuaze.com-ff4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web"></a>
+  <a href="https://aquav3.wuaze.com/"><img src="https://img.shields.io/badge/Aqua--Bot--V3-aquav3.wuaze.com-00bfff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aqua-Bot-V3"></a>
   <a href="https://whatsapp.com/channel/0029Vb9IFfXChq6EcKOjAZ1N"><img src="https://img.shields.io/badge/Canal_de_WhatsApp-Unirse-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal WhatsApp"></a>
   <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=for-the-badge" alt="Estado">
   <img src="https://img.shields.io/badge/Hosting-InfinityFree-blueviolet?style=for-the-badge" alt="Hosting">
